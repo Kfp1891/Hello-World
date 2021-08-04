@@ -1,0 +1,62 @@
+.container{
+    border: 1px solid grey;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 16px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    
+    
+    
+    
+    
+    
+  }
+  .element-selector{
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .input[type=text], input[type=email],txtarea
+  {
+      display: block;
+      padding: 10px;
+      font-size: large;
+      width: 75%;
+  }
+  
+  .input[type=text], input[type=password],txtarea
+  {
+      display: block;
+      padding: 10px;
+      font-size: large;
+      width: 75%;
+    
+  }
+  
+  
+  .cbutton {
+    background-color: orange;
+    color: black;
+    width: 77%;
+    padding: 2px;
+    font-size: large;
+    
+  }
+  
+   #grey-button {
+    background-color: lightgrey;
+    border: black;
+    width: 77%;
+    padding: 10px;
+    border-radius: px;
+    
+  }
+     
+    .lower {
+    width: max;
+    height: 350px;
+    flex-direction: colunm;
+    justify-content:center;
+  }
